@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on **FitFlow**
 
-- 🌱 I’m currently learning **Flask, React**
+- 🌱 I’m currently learning **Flask, SQL**
 
 - 👨‍💻 All of my projects are available at [//clear](//clear)
 
-- 💬 Ask me about **Programing with C, Java, OOP**
+- 💬 Ask me about **Programing with C, Pyhton, data structures and algorithms**
 
 - 📫 How to reach me **blndqaladzey12@gmail.com**
 
