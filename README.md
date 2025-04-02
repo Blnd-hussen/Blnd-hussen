@@ -2,17 +2,36 @@
 
 ## About Me
 
-<p>
 Aspiring front-end/backend developer with hands-on experience in full-stack development. Proficient in building responsive web applications using modern frameworks like React and Django. I am equipped with strong problem-solving skills and focused on implementing efficient algorithms and best practices with a commitment to writing clean, scalable code.
-</p>
 
-###
+## Skills
+
+- **Programming Languages**: C, C++, Java, Python, JavaScript (ES6+), TypeScript
+- **Front-end**: HTML5, CSS3, SCSS, Tailwind CSS, Bootstrap, React
+- **Back-end**: Django, Flask, REST API's
+- **Database**: SQL, SQL Server, SQLite3, Database Design, Migrations
+- **Tools & Version Control**: Git, GitHub, GitLens, Light House, npm, postman, ViteJS, Linux, VSCode, Neovim
+
+## Certifications
+
+- **CS50x**: Introduction to Computer Science  
+Harvard University’s in-depth course covering the fundamental principles of computer science and programming.   Certification Link
+
+## Projects and Practical Experience
+
+- [**Kurdcode Academy**](https://kurdcode-academy-7vvl.vercel.app/ "https://kurdcode-academy-7vvl.vercel.app/")
+- [**Simple Notes - chrome**](https://chromewebstore.google.com/detail/simple-notes/ncibghcnoeclndfhhbfdgcgfdliafhik "https://chromewebstore.google.com/detail/simple-notes/ncibghcnoeclndfhhbfdgcgfdliafhik")
+- [**Simple Notes - firefox**](https://addons.mozilla.org/en-US/firefox/user/18622209/?utm_source=firefox-browser&utm_medium=firefox-browser&utm_content=addons-manager-user-profile-link "https://addons.mozilla.org/en-US/firefox/user/18622209/?utm_source=firefox-browser&utm_medium=firefox-browser&utm_content=addons-manager-user-profile-link")
+- **CS50x/CS50web Projects, Problem Sets and Labs**: Completed a series of challenging problem sets and labs as part of Harvard University's CS50x and CS50web courses. Developed a range of projects that demonstrate proficiency in programming, algorithms, and software engineering. Key projects, in addition to self-driven projects, are showcased on my GitHub account.
+
+
+## Streak
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=Blnd-hussen&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-###
+## Social
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
