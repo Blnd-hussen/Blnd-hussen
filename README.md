@@ -1,11 +1,12 @@
 <h1 align="center">Hello, World! I'm Blnd hussen</h1>
 
+<p>
+Aspiring front-end/backend developer with hands-on experience in full-stack development. Proficient in building responsive web applications using modern frameworks like React and Django. I am equipped with strong problem-solving skills and focused on implementing efficient algorithms and best practices with a commitment to writing clean, scalable code.
+</p>
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blnd-hussen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Blnd-hussen&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Blnd-hussen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
