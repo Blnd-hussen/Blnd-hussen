@@ -15,7 +15,7 @@ Aspiring front-end/backend developer with hands-on experience in full-stack deve
 ## Certifications
 
 - **CS50x**: Introduction to Computer Science  
-Harvard University’s in-depth course covering the fundamental principles of computer science and programming.   Certification Link
+Harvard University’s in-depth course covering the fundamental principles of computer science and programming. [Certification Link](https://cs50.harvard.edu/certificates/0488db2c-4134-48e2-8f0e-f3eddafbf1d6 "https://cs50.harvard.edu/certificates/0488db2c-4134-48e2-8f0e-f3eddafbf1d6")
 
 ## Projects and Practical Experience
 
@@ -25,7 +25,7 @@ Harvard University’s in-depth course covering the fundamental principles of co
 - **CS50x/CS50web Projects, Problem Sets and Labs**: Completed a series of challenging problem sets and labs as part of Harvard University's CS50x and CS50web courses. Developed a range of projects that demonstrate proficiency in programming, algorithms, and software engineering. Key projects, in addition to self-driven projects, are showcased on my GitHub account.
 
 
-## Streak
+## Streaks
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=Blnd-hussen&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
