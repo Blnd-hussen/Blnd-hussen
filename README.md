@@ -1,11 +1,14 @@
 <h1 align="center">Hello, World! I'm Blnd hussen</h1>
 
+## About Me
+
 <p>
 Aspiring front-end/backend developer with hands-on experience in full-stack development. Proficient in building responsive web applications using modern frameworks like React and Django. I am equipped with strong problem-solving skills and focused on implementing efficient algorithms and best practices with a commitment to writing clean, scalable code.
 </p>
+
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=Blnd-hussen&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
