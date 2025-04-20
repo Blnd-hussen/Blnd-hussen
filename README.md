@@ -17,6 +17,9 @@ Aspiring front-end/backend developer with hands-on experience in full-stack deve
 - **CS50x**: Introduction to Computer Science  
 Harvard University’s in-depth course covering the fundamental principles of computer science and programming. [Certification Link](https://cs50.harvard.edu/certificates/0488db2c-4134-48e2-8f0e-f3eddafbf1d6 "https://cs50.harvard.edu/certificates/0488db2c-4134-48e2-8f0e-f3eddafbf1d6")
 
+- **CS50w**: Web Programming with Python and JavaScript
+Harvard University’s comprehensive course on modern web development, covering the fundamentals of front-end and back-end programming using Python, JavaScript. [Certification Link](https://certificates.cs50.io/1074e91d-1d15-442f-9737-b5e0c5690325.pdf?size=letter "https://certificates.cs50.io/1074e91d-1d15-442f-9737-b5e0c5690325.pdf?size=letter")
+
 ## Projects and Practical Experience
 
 - [**Kurdcode Academy**](https://kurdcode-academy-7vvl.vercel.app/ "https://kurdcode-academy-7vvl.vercel.app/")
