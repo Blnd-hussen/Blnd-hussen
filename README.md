@@ -23,6 +23,8 @@ Harvard University’s comprehensive course on modern web development, covering 
 ## Projects and Practical Experience
 
 - [**Kurdcode Academy**](https://kurdcode-academy-7vvl.vercel.app/ "https://kurdcode-academy-7vvl.vercel.app/")
+- [**Playground**](https://kurdcode-academy-7vvl.vercel.app/playground "https://kurdcode-academy-7vvl.vercel.app/playground")
+- [**Nazkids clothing store**](https://nazkids.vercel.app/ "https://nazkids.vercel.app/")
 - [**Simple Notes - chrome**](https://chromewebstore.google.com/detail/simple-notes/ncibghcnoeclndfhhbfdgcgfdliafhik "https://chromewebstore.google.com/detail/simple-notes/ncibghcnoeclndfhhbfdgcgfdliafhik")
 - [**Simple Notes - firefox**](https://addons.mozilla.org/en-US/firefox/user/18622209/?utm_source=firefox-browser&utm_medium=firefox-browser&utm_content=addons-manager-user-profile-link "https://addons.mozilla.org/en-US/firefox/user/18622209/?utm_source=firefox-browser&utm_medium=firefox-browser&utm_content=addons-manager-user-profile-link")
 - **CS50x/CS50web Projects, Problem Sets and Labs**: Completed a series of challenging problem sets and labs as part of Harvard University's CS50x and CS50web courses. Developed a range of projects that demonstrate proficiency in programming, algorithms, and software engineering. Key projects, in addition to self-driven projects, are showcased on my GitHub account.
