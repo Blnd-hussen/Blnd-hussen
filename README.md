@@ -22,8 +22,8 @@ Harvard University’s comprehensive course on modern web development, covering 
 
 ## Projects and Practical Experience
 
-- [**Kurdcode Academy**](https://kurdcode-academy-7vvl.vercel.app/ "https://kurdcode-academy-7vvl.vercel.app/")
-- [**Playground**](https://kurdcode-academy-7vvl.vercel.app/playground "https://kurdcode-academy-7vvl.vercel.app/playground")
+- [**Kurdcode Academy**](https://kurdcode-academy.pages.dev/ "https://kurdcode-academy.pages.dev/")
+- [**Playground**](https://kurdcode-academy.pages.dev/ "https://kurdcode-academy.pages.dev/")
 - [**Nazkids clothing store**](https://nazkids.vercel.app/ "https://nazkids.vercel.app/")
 - [**Simple Notes - chrome**](https://chromewebstore.google.com/detail/simple-notes/ncibghcnoeclndfhhbfdgcgfdliafhik "https://chromewebstore.google.com/detail/simple-notes/ncibghcnoeclndfhhbfdgcgfdliafhik")
 - [**Simple Notes - firefox**](https://addons.mozilla.org/en-US/firefox/user/18622209/?utm_source=firefox-browser&utm_medium=firefox-browser&utm_content=addons-manager-user-profile-link "https://addons.mozilla.org/en-US/firefox/user/18622209/?utm_source=firefox-browser&utm_medium=firefox-browser&utm_content=addons-manager-user-profile-link")
